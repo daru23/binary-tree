@@ -1,0 +1,6 @@
+c:\users\daniela ruiz\documents\visual studio 2013\Projects\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+c:\users\daniela ruiz\documents\visual studio 2013\Projects\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+c:\users\daniela ruiz\documents\visual studio 2013\Projects\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+c:\users\daniela ruiz\documents\visual studio 2013\Projects\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+c:\users\daniela ruiz\documents\visual studio 2013\Projects\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+c:\users\daniela ruiz\documents\visual studio 2013\Projects\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
